@@ -20,3 +20,4 @@
 - Radix UI
 - Prisma
 - Mysql
+- Zod
