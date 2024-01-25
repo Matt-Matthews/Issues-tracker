@@ -19,3 +19,4 @@
 - Tailwind css
 - Radix UI
 - Prisma
+- Mysql
