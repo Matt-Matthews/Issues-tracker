@@ -21,3 +21,6 @@
 - Prisma
 - Mysql
 - Zod
+- Markdown editor
+- react hook form
+- Axios
